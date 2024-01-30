@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Chauffeur Frontend",
+    "slug": "Chauffeur Frontend", 
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/Chauffeur-white.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Chauffeur-white.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Chauffeur-white.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
